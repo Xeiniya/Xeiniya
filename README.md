@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kseniya Nikolayeva, a Cross-Platform and Mobile Developer currently studying Applied Informatics at Belarusian State University (2024-now).
+Hi, I'm Kseniya Nikolayeva, a Cross-Platform and Mobile Developer currently studying Applied Informatics at Belarusian State University (2023-now).
 
 ## 🚀 My Projects:
 ### Forest Tale
