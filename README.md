@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kseniya Nikolayeva, a Cross-Platform and Mobile Developer currently studying Applied Informatics at Belarusian State University (2023-now).
+Hi, I'm Kseniya Nikolayeva, currently studying Applied Informatics at Belarusian State University.
 
 ## 🚀 My Projects:
 ### Forest Tale
@@ -9,14 +9,13 @@ Hi, I'm Kseniya Nikolayeva, a Cross-Platform and Mobile Developer currently stud
 - Magic attack system
 - Custom UI and audio
 
-### Plantify
-🌱 Developed an iOS app for plant care management:
+### Care
+🌱 Developed an iOS app for care management:
 - Swift, UIKit, CoreData
 - User authentication system
-- Plant catalog with care tracking
+- Catalog with care tracking
 - Progress monitoring
 - Unit tests with XCTest
-- [GitHub Repository](https://github.com/Xeiniya/Plantify)
 
 ## 🛠 Skills:
 <pre>
@@ -50,7 +49,6 @@ Hi, I'm Kseniya Nikolayeva, a Cross-Platform and Mobile Developer currently stud
 ## 📫 Contact Me:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ksn.nikolayeva@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/lacrimiis)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Xeiniya)
 
 ## 💻 Tech Stack:
 [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
