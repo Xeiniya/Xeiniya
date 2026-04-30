@@ -2,7 +2,7 @@
 Hi, I'm Kseniya Nikolayeva, a Software Engineering student at Belarusian State University. 
 I specialize in high-performance computing, mobile development (Android/iOS), and Computer Vision.
 
-## 🚀 Key Projects for Mapbox:
+## 🚀 Key Projects:
 
 ### 🐟 Fish Classification & Segmentation (ML/CV)
 - Developed a computer vision model using **PyTorch** and **TensorFlow Lite** for real-time fish species identification.
@@ -42,5 +42,5 @@ I specialize in high-performance computing, mobile development (Android/iOS), an
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 📫 Contact Me:
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ksn.nikolayeva@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:xeiniya@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/lacrimiis)
