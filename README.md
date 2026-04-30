@@ -1,72 +1,46 @@
 # 💫 About Me:
-Hi, I'm Kseniya Nikolayeva, currently studying Applied Informatics at Belarusian State University.
+Hi, I'm Kseniya Nikolayeva, a Software Engineering student at Belarusian State University. 
+I specialize in high-performance computing, mobile development (Android/iOS), and Computer Vision.
 
-## 🚀 My Projects:
-### Forest Tale
-🌲 Created a 2D adventure game in Unity with:
-- Quiz-based enemy logic
-- Multiple difficulty levels
-- Magic attack system
-- Custom UI and audio
+## 🚀 Key Projects for Mapbox:
 
-### Care
-🌱 Developed an iOS app for care management:
-- Swift, UIKit, CoreData
-- User authentication system
-- Catalog with care tracking
-- Progress monitoring
-- Unit tests with XCTest
+### 🐟 Fish Classification & Segmentation (ML/CV)
+- Developed a computer vision model using **PyTorch** and **TensorFlow Lite** for real-time fish species identification.
+- Worked with large-scale datasets, focusing on image segmentation and model optimization for mobile devices.
+- **Tech:** Python, PyTorch, TF Lite, OpenCV.
 
-## 🛠 Skills:
+### ⚡ Parallel Computing & Optimization (C++)
+- Implemented high-performance parallel algorithms for calculating definite integrals.
+- Focused on CPU-bound task optimization and multithreading in **C++**.
+- **Tech:** C++, MS Visual Studio, OpenMP/Threads.
+
+### 📱 Care Management System (iOS/Android)
+- Developed cross-platform concepts and native mobile solutions.
+- Implemented robust data persistence with **CoreData/SQLite** and UI with **Jetpack Compose / UIKit**.
+- **Tech:** Kotlin, Swift, JUnit, XCTest.
+
+## 🛠 Skills (Prioritized):
 <pre>
-✦ Mobile Development
-  • Swift
-  • Objective-C
-  • UIKit
-  • CoreData
-  • XCTest
-✦ Game Development
-  • Unity
-  • C#
-✦ Web Development
-  • HTML/CSS/JavaScript
-✦ Databases
-  • SQLite
-✦ Other
-  • Git/GitHub
-  • GitHub Actions
-  • Google Test
-  • Figma
-  • Latex
+✦ High-Performance & Core
+  • C++ (Parallel Computing, GTest)
+  • Java / Kotlin (Android SDK, Compose)
+  • Python (ML, Computer Vision)
+✦ Mobile & Game Dev
+  • Swift (iOS)
+  • Unity (C#)
+✦ Engineering Tools
+  • Git / GitHub Actions
+  • LaTeX (Technical Documentation)
+  • Figma (UI/UX Design)
 </pre>
 
-## 🌐 Languages:
-- Russian (Native)
-- Belorussian (Native)
-- English (Upper Intermediate)
-- German (Beginner)
+## 💻 Tech Stack:
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 📫 Contact Me:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:ksn.nikolayeva@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/lacrimiis)
-
-## 💻 Tech Stack:
-[![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
-[![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-## ✨ Core Competencies:
-- Cross-platform development
-- Mobile app development (iOS)
-- Game development
-- UI/UX design
-- Team leadership
-- Technical writing
